@@ -1,0 +1,5 @@
+debug: true
+enableLoggingRequestDetails: true
+spring:
+  http:
+    log-request-details: true
